@@ -1,0 +1,13 @@
+Project Plan-Brainstorming
+--------------------------------------------------------------------------------------------------------------
+Problem Statement-
+Collaboration and Communication is important in daily life
+Face to Face comms are sometimes illogical because your friend is asleep and cant meet right now 
+
+Solution-
+Talkie even though you're typing
+(realtimemessagingappusingfirebase){
+this.props.navigation.navigate=goToTalkie
+}
+
+ 
